@@ -318,6 +318,6 @@ with torch.no_grad():
 
 ---
 
-⭐ **If you found this project helpful, please consider giving it a star!**
+⭐ **If you found this project helpful, please consider giving it a star!!**
 
 📧 For questions or collaborations, reach out via [GitHub Issues](https://github.com/C0DER0712/bone-age-prediction/issues)
